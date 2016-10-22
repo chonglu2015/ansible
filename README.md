@@ -8,6 +8,7 @@
 * 基本命令行使用（Ad-Hoc）
 * 剧本使用方法（Playbooks）
 * 任务（Tasks)
+
 LAB A：管理Web服务器群集
 
 
@@ -17,6 +18,7 @@ LAB A：管理Web服务器群集
 * 循环（Loops）
 * 角色（Roles）
 * 问题排查（Troubleshooting）
+
 LAB B：自动化健康巡检
 
 
@@ -27,6 +29,7 @@ LAB B：自动化健康巡检
 * 回调插件（Callback Plugins）
 * 数据加密和安全 （Ansible-vault）
 * Docker管理 （Ansible Docker）
+
 LAB C: XXXX
 
 * 查找插件（Lookup Plugins）
@@ -35,4 +38,7 @@ LAB C: XXXX
 * 混合云架构-vm，Openstack，AWS （Hybrid Cloud）
 * Ansible Tower简介 （Ansible Tower）
 * Windows Server/网络管理 （Windows Server， Networking）
+
 LAB D: XXXX
+
+
